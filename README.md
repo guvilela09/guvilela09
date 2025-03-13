@@ -2,7 +2,6 @@
 
 - 🖥️ Hoje trabalho com .NET
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistema
-- 📚 Estudando XP. Full Stack Dio 
 - 📫 Contate-me no email: guuvilela08@gmail.com
 - 😄 Pronouns: Ele/Dele
 
