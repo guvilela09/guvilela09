@@ -1,6 +1,6 @@
-## Prazer Sou Gustavo Vilela mais pode me chamar de Vilela rs, Sou Programador Junior Sejam Bem-Vindos! 👋
+## Prazer Sou Gustavo Vilela, Sou Programador Junior Sejam Bem-Vindos! 👋
 
-- 🖥️ Hoje trabalho com .NET
+- 🖥️ Hoje trabalho como Auxiliar de Sistemas
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistema
 - 📫 Contate-me no email: guuvilela08@gmail.com
 - 😄 Pronouns: Ele/Dele
