@@ -1,4 +1,4 @@
-## Olaaaa Sou Gustavo Vilela Sou Programador .NET Sejam Bem-Vindos! 👋
+## Prazer Sou Gustavo Vilela mais pode me chamar de Vilela rs, Sou Programador Junior Sejam Bem-Vindos! 👋
 
 - 🖥️ Hoje trabalho com .NET
 - 👨🏻‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistema
